@@ -1,0 +1,27 @@
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.deps.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.AssemblyReference.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfoInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfo.cs
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.CoreCompileInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\refint\MISA.Web04.Core.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\ref\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.deps.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.AssemblyReference.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.Resources.ResourceEN.resources
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.Resources.ResourceVN.resources
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.GenerateResource.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfoInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.AssemblyInfo.cs
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.csproj.CoreCompileInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\refint\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Core\obj\Debug\net6.0\ref\MISA.Web04.Core.dll

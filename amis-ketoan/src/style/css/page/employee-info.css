@@ -1,0 +1,229 @@
+.d-employee-box {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #00000066;
+    z-index: 9 !important;
+}
+
+.d-employee-box-info {
+    position: absolute;
+    width: 900px;
+    height: 625;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 4px;
+    background-color: #fdfdfd;
+}
+
+
+/* định nghĩa cho phần header */
+
+.d-employee-box-info .header {
+    display: flex;
+    /* justify-content: space-between; */
+    box-sizing: border-box;
+    width: 100%;
+    height: 50px;
+    border-radius: 4px 4px 0px 0px;
+    margin-left: 20px;
+}
+
+.d-employee-box-info .header .header-close {
+    cursor: pointer;
+    position: absolute;
+    right: -1px;
+    cursor: pointer;
+}
+
+.d-employee-box-info .header .header-text {
+    padding-top: 24px;
+    padding-left: 8px;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+.d-employee-box-info .header .header-content {
+    display: flex;
+    padding-top: 24px;
+}
+
+.d-employee-box-info .header .header-checkbox {
+    padding-left: 19.5px;
+    padding-right: 19.5px;
+    /* padding-left: 8px; */
+}
+
+
+/* định nghĩa cho phần footer */
+
+.d-employee-box-info .footer {
+    display: flex;
+    /* justify-content: right; */
+    box-sizing: border-box;
+    width: 100%;
+    height: 87px;
+    position: absolute;
+    bottom: 0px;
+}
+
+.d-employee-box-info .footer .footer-line {
+    width: 100%;
+    height: 1px;
+    background-color: #000000;
+    align-items: top;
+    position: absolute;
+    top: 50%;
+}
+
+.d-employee-box-info .footer .footer-button {
+    width: 100%;
+    height: 34px;
+    display: flex;
+    justify-content: flex-end;
+    position: absolute;
+    bottom: 0px;
+}
+
+.d-employee-box-info .footer .footer-button button {
+    height: 34px;
+}
+
+.d-employee-box-info .footer .footer-button .d-btn-footer-left {
+    position: absolute;
+    left: 0px !important;
+}
+
+.d-employee-box-info .footer .d-btn-save {
+    border: 1px solid #8d9096;
+    margin-right: 24px;
+}
+
+.d-employee-box-info .footer .d-btn-cancel {
+    color: black;
+    margin-right: 4px;
+    border: 1px solid #8d9096;
+}
+
+.d-employee-box-info .content {
+    margin: 0px 32px 20px 32px;
+    height: 552px;
+    position: relative;
+}
+
+.content .content-info {
+    display: flex;
+}
+
+.content .content-info .content-info-left {
+    width: 392px;
+    height: 192px;
+    margin-right: 26px;
+}
+
+.content .content-info .content-info-right {
+    width: 392px;
+    height: 192px;
+    margin-right: 26px;
+}
+
+.content .content-info-bottom {
+    /* display: flex; */
+    margin-top: 16px;
+}
+
+.content .content-info-bottom .info-input-tr:last-child {
+    padding-top: 12px;
+}
+
+.content .content-info-bottom .info-input {
+    padding-right: 6px;
+}
+
+.content .info-input-tr {
+    display: flex;
+}
+
+.content .content-info .info-input {
+    padding-top: 12px;
+    padding-right: 6px;
+}
+
+.content .info-input-tr .d-input {
+    display: flex;
+    height: 32px;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 12px;
+}
+
+.toggle {
+    display: block !important;
+}
+
+.cbxDepartment {
+    height: 32px;
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-radius: 4px;
+    min-width: 391px;
+    outline: none;
+}
+
+.cbxDepartment:focus {
+    border-color: #019160;
+}
+
+input {
+    margin-top: 4px;
+}
+
+select {
+    margin-top: 4px;
+}
+
+.header-checkbox {
+    display: flex;
+    align-items: center;
+}
+
+.info-input .info-input-box {
+    margin-top: 8px;
+    display: flex;
+}
+
+.info-input-item {
+    display: flex;
+    justify-content: center;
+}
+
+#d-radio {
+    margin-left: 4px;
+}
+
+input[type="radio"] {
+    accent-color: #2ca01c;
+    width: 18px;
+    height: 18px;
+    margin-top: 0px;
+}
+
+input[type="checkbox"] {
+    accent-color: #2ca01c;
+}
+
+#d-btn-save:hover {
+    background-color: #d2d3d6;
+}
+
+#d-btn-close:hover {
+    background-color: #d2d3d6;
+}
+
+.icon_refresh,
+.icon_excel {
+    cursor: pointer;
+}

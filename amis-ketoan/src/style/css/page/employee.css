@@ -1,0 +1,71 @@
+#d-fix-height {
+    overflow: hidden;
+}
+
+.d-dialog-box {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(177, 177, 177, 0.397);
+    z-index: 9999;
+}
+
+.d-dialog-box-delete {
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(177, 177, 177, 0.397);
+    z-index: 99999;
+}
+
+.d-dialog {
+    border-radius: 4px;
+    position: absolute;
+    width: 400px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.d-dialog .d-dialog-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 24px;
+    height: 24px;
+    border-radius: 0px 4px 0px 4px;
+    background-image: url(/assets/icon/x.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 16px;
+}
+
+.d-dialog .d-dialog-close:hover {
+    background-color: #E5E5E5;
+}
+
+.d-dialog .d-dialog-header {
+    padding: 24px;
+    font-weight: 700;
+}
+
+.d-dialog .d-dialog-body {
+    padding: 0px 24px 24px 24px;
+}
+
+.d-dialog .d-dialog-footer {
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 60px;
+    background-color: #f4f4f4;
+    border-radius: 0px 0px 4px 4px;
+    padding-right: 24px;
+}
+
+.d-dialog .d-dialog-footer button {
+    margin-left: 16px;
+}

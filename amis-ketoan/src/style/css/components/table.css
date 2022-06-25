@@ -1,0 +1,141 @@
+.d-table-box {
+    /* width: 100%; */
+    margin-bottom: 100px;
+    /* box-sizing: border-box; */
+}
+
+.d-table {
+    border-collapse: separate;
+    border-spacing: 0;
+    display: table;
+    border-bottom: 1px solid #bbbbbb;
+}
+
+.d-table th {
+    font-size: 12px;
+    height: 34px;
+    background-color: #e5e8ec !important;
+    border-right: #bbbbbb 1px solid !important;
+}
+
+.d-table tr {
+    height: 44px;
+    background-color: #fafafa;
+}
+
+.d-table tr th,
+.d-table tr td {
+    padding-left: 16px;
+    padding-right: 10px;
+    box-sizing: border-box;
+}
+
+.d-table tr td {
+    border-right: #bbbbbb 1px dotted !important;
+    border-bottom: #bbbbbb 1px solid !important;
+}
+
+.d-table tr th:first-child {
+    background-color: #fafafa;
+    position: sticky;
+    left: 0;
+    z-index: 9;
+    border-right: #bbbbbb 1px solid;
+}
+
+.d-table tr th:last-child {
+    background-color: #fafafa;
+    position: sticky;
+    right: 0px;
+    z-index: 9;
+    border-left: #bbbbbb 1px solid;
+    box-sizing: border-box;
+    border-right: none !important;
+}
+
+.d-table tr td:first-child {
+    background-color: #fafafa;
+    position: sticky;
+    left: 0;
+}
+
+.d-table tr td:last-child {
+    background-color: #fafafa;
+    position: sticky;
+    right: 0;
+    border-right: none !important;
+    border-left: #bbbbbb 1px dotted !important;
+}
+
+.d-table-text-align-center {
+    text-align: center;
+}
+
+.d-table-text-align-left {
+    text-align: left;
+}
+
+.d-table-text-align-right {
+    text-align: right;
+}
+
+.d-table tr.d-row-selected {
+    background-color: #e3f3ee;
+}
+
+.d-table-paging {
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d-paging {
+    background-color: #fafafa;
+}
+
+.d-table-paging-center {
+    display: flex;
+}
+
+.d-table-paging-center button {
+    width: 48px;
+    height: 48px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: none;
+    margin: 8px;
+    border-radius: 4px;
+}
+
+.d-btn-number {
+    border-radius: 24px !important;
+}
+
+tbody>tr:hover td {
+    background-color: #e5f3ff !important;
+    ;
+}
+
+.d-grid .d-grid-table::-webkit-scrollbar {
+    width: 10px;
+    height: 10px;
+}
+
+.d-grid .d-grid-table::-webkit-scrollbar-thumb {
+    background: #b8bcc3;
+}
+
+label {
+    font-weight: 700;
+}
+
+#d-btn-close,
+#d-btn-save,
+#d-btn-save-add {
+    font-weight: 600;
+}
+
+#d-radio .info-input-box label {
+    font-weight: normal;
+}

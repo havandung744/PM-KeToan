@@ -1,0 +1,40 @@
+.d-navbar {
+    background-color: #393a3d;
+    width: 178px;
+    height: calc(100vh - 48px);
+}
+
+.d-navbar .d-menu-item {
+    display: flex;
+    height: 42px;
+    align-items: center;
+    padding-left: 14px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+
+.d-navbar .d-menu-item .d-menu-text {
+    display: flex;
+    height: 44px;
+    align-items: center;
+    padding-left: 8px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+}
+
+.d-navbar .d-menu-item:hover {
+    cursor: pointer;
+    background-color: #59595D;
+    font-family: GoogleSans;
+}
+
+.d-navbar .d-menu-item:active {
+    background-color: #019160;
+    font-family: GoogleSans Medium;
+    color: #ffffff;
+}
+
+.d-menu-item a {
+    color: #ffffff;
+    text-decoration: none;
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KiEvPKpHEHuP3dtYrmZiWfcupyXEvVjz6Vml8TsX92o=",
+  "Source": "MISA.Web04.Api",
+  "BasePath": "_content/MISA.Web04.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

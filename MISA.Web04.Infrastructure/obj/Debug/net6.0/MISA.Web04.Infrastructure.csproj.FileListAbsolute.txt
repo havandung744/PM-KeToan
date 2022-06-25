@@ -1,0 +1,30 @@
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.deps.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.AssemblyReference.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.AssemblyInfoInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.AssemblyInfo.cs
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.CopyComplete
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\refint\MISA.Web04.Infrastructure.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\ref\MISA.Web04.Infrastructure.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.deps.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.AssemblyReference.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.AssemblyInfoInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.AssemblyInfo.cs
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.csproj.CopyComplete
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\refint\MISA.Web04.Infrastructure.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Infrastructure\obj\Debug\net6.0\ref\MISA.Web04.Infrastructure.dll

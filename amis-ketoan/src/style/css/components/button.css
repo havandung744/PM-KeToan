@@ -1,0 +1,28 @@
+.d-btn {
+    background-color: #2ca01c;
+    border-radius: 4px;
+    height: 40px;
+    color: #ffffff;
+    padding-left: 24px;
+    padding-right: 24px;
+    text-align: center;
+    border: none;
+    min-width: 100px;
+    cursor: pointer;
+    font-family: GoogleSans;
+}
+
+.d-btn:hover {
+    background-color: #2FBE8E;
+}
+
+.d-btn:active {
+    background-color: #01B075;
+}
+
+.d-btn-save,
+.d-btn-cancel {
+    background-color: #fafafa;
+    color: #000;
+    border: 1px solid #000;
+}

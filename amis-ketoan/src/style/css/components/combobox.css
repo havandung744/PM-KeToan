@@ -1,0 +1,12 @@
+select.d-combobox {
+    height: 40px;
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-radius: 4px;
+    min-width: 200px;
+    outline: none;
+}
+
+select.d-combobox:focus {
+    border-color: #019160;
+}

@@ -1,0 +1,44 @@
+.d-paging {
+    display: flex;
+    height: 56px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.d-paging-center {
+    display: flex;
+}
+
+.d-paging .d-paging-center button {
+    width: 40px;
+    height: 40px;
+    background-repeat: no-repeat;
+    margin: 2px;
+    background-size: cover;
+    outline: none;
+    opacity: .5;
+    border-width: 0px;
+    background-color: #ffffff;
+}
+
+.d-paging .d-paging-center button:hover {
+    background-color: #e9ebee;
+    cursor: pointer;
+    opacity: 1;
+}
+
+.pagination a.pagination-active {
+    color: aliceblue;
+    background-color: #019160;
+}
+
+.d-paging .d-paging-center .d-group-number-page button {
+    border-radius: 50%;
+    border-style: solid;
+    border-width: 1px;
+    opacity: 1;
+}
+
+.d-paging .d-combobox {
+    height: 30px;
+}

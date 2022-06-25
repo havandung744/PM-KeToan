@@ -1,0 +1,88 @@
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\appsettings.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.exe
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.deps.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.runtimeconfig.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.AssemblyReference.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.AssemblyInfoInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.AssemblyInfo.cs
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.CoreCompileInputs.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.Web04.Api.styles.css
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.CopyComplete
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\refint\MISA.Web04.Api.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.pdb
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.genruntimeconfig.cache
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\ref\MISA.Web04.Api.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Dapper.dll
+C:\Misa\bài tập khối\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\appsettings.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.exe
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.deps.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.runtimeconfig.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Api.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Dapper.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MySqlConnector.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Core.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Infrastructure.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Core.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\MISA.Web04.Infrastructure.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.AssemblyReference.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.AssemblyInfoInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.AssemblyInfo.cs
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.CoreCompileInputs.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\scopedcss\bundle\MISA.Web04.Api.styles.css
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.csproj.CopyComplete
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\refint\MISA.Web04.Api.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.pdb
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\MISA.Web04.Api.genruntimeconfig.cache
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\obj\Debug\net6.0\ref\MISA.Web04.Api.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\EPPlus.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\EPPlus.Interfaces.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\EPPlus.System.Drawing.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\ClosedXML.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\Misa\baitapkhoi\C#\MISA.Web04.PMKeToan\MISA.Web04.Api\bin\Debug\net6.0\System.IO.Packaging.dll

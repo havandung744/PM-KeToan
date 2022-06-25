@@ -1,0 +1,86 @@
+.d-dialog-box {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background-color: rgba(177, 177, 177, 0.397);
+    z-index: 100;
+}
+
+.d-dialog {
+    border-radius: 4px;
+    position: absolute;
+    width: 400px;
+    background-color: white;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.d-dialog .d-dialog-close {
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 24px;
+    height: 24px;
+    border-radius: 0px 4px 0px 4px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 16px;
+}
+
+.d-dialog .d-dialog-close:hover {
+    background-color: #E5E5E5;
+}
+
+.d-dialog .d-dialog-header {
+    box-sizing: border-box;
+    padding: 24px;
+    font-weight: 700;
+}
+
+.d-dialog .d-dialog-body {
+    padding: 0px 24px 24px 4px;
+}
+
+.d-dialog .d-dialog-footer {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    height: 60px;
+    border-radius: 0px 0px 4px 4px;
+    padding-right: 24px;
+}
+
+.d-dialog .d-dialog-content-box {
+    display: flex;
+}
+
+.d-dialog .d-dialog-footer button {
+    margin-left: 16px;
+}
+
+.d-dialog .d-dialog-footer-line {
+    display: flex;
+    width: 84%;
+    height: 1px;
+    background-color: #bbbbbb;
+    position: absolute;
+    top: 0;
+    left: calc((100% - 80%)/2);
+}
+
+.icon_close {
+    position: absolute;
+    right: -10px;
+    top: -5px;
+    width: 24px;
+    height: 24px;
+}
+
+.d-dialog-icon-warning {
+    padding: 0px 12px 24px 24px;
+}

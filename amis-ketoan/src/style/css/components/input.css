@@ -1,0 +1,57 @@
+.d-input {
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-radius: 4px;
+    height: 40px;
+    padding: 0px 10px;
+    outline: none;
+    border-style: solid;
+    width: 300px;
+    /* cho dù có padding hay margin như thế nào thì độ rộng vẫn chỉ là 200px */
+    box-sizing: border-box;
+}
+
+.d-input:focus {
+    border-color: rgb(44, 160, 28);
+}
+
+.d-input-error {
+    border-color: rgb(255, 0, 0);
+}
+
+
+/* .d-input-icon {
+    background: url("/assets/img/image/search.png");
+    background-repeat: no-repeat;
+    background-size: 16px 16px;
+    background-position-y: center;
+    background-position-x: 16px;
+    padding-left: 40px;
+    width: 250px;
+} */
+
+.d-error-box {
+    background-color: #ff4747;
+    color: #fff;
+    padding: 8px;
+    text-align: center;
+    border-radius: 4px;
+    margin: 4px;
+    position: relative;
+    left: 20px;
+}
+
+.d-box-arrow {
+    width: 16px;
+    height: 16px;
+    transform: rotate(45deg);
+    position: absolute;
+    left: 45%;
+    background-color: #ff4747;
+    z-index: 0;
+}
+
+.d-error-box-text {
+    z-index: 2;
+    position: relative;
+}

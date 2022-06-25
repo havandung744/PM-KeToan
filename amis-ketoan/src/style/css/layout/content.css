@@ -1,0 +1,148 @@
+.d-content {
+    position: absolute;
+    top: 48px;
+    left: 178px;
+    bottom: 10px;
+    right: 0px;
+    padding: 16px 30px 0px 20px;
+    box-sizing: border-box;
+    background-color: #eceef1;
+}
+
+.d-content .d-page-header {
+    display: flex;
+    height: 40px;
+    align-items: center;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+.d-content .d-page-header .d-page-title {
+    font-size: 24px;
+    color: #000000;
+    font-weight: 700;
+    box-sizing: border-box;
+}
+
+.d-content .d-page-toolbar {
+    display: flex;
+    height: 36px;
+    justify-content: right !important;
+    align-items: center;
+    padding: 16px;
+    margin-top: 20px;
+    background-color: #fafafa;
+}
+
+.d-content .d-page-toolbar .d-toolbar-left {
+    display: flex;
+    align-items: center;
+    width: 250px;
+    box-sizing: border-box;
+    position: relative;
+    margin-right: 16px;
+}
+
+.d-content .d-page-toolbar .d-toolbar-left input {
+    padding-right: 32px;
+    height: 32px;
+    width: 240px;
+}
+
+.d-content .d-page-toolbar .d-toolbar-left .icon_search {
+    position: absolute;
+    right: 18px;
+}
+
+.d-content .d-grid {
+    position: relative;
+    width: 100%;
+    height: calc(100% - 124px);
+    box-sizing: border-box;
+    overflow: hidden;
+    border-left: 20px solid #fafafa;
+    border-right: 20px solid #fafafa;
+}
+
+.d-content .d-paging {
+    display: flex;
+    position: absolute;
+    bottom: 4px;
+    height: 56px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 16px;
+    align-items: center;
+}
+
+.d-content .d-paging .d-paging-right {
+    display: flex;
+    margin-right: 16px;
+}
+
+.d-content .d-paging .d-paging-right .d-before {
+    outline: none;
+    border: none;
+    background-color: unset;
+}
+
+.d-content .d-paging .d-paging-right .d-after {
+    outline: none;
+    border: none;
+    background-color: unset;
+}
+
+.d-content .d-paging .d-paging-right .d-row:first-child {
+    display: flex;
+    align-items: center;
+    margin-right: 16px;
+}
+
+.d-content .d-paging .d-paging-right .d-row:last-child {
+    display: flex;
+    align-items: center;
+}
+
+.d-content .d-grid .d-grid-table {
+    overflow-y: auto;
+    /* width: calc(100% + 17px); */
+    /* width: 100%; */
+    height: 89%;
+    overflow-x: auto;
+    white-space: nowrap;
+}
+
+.d-content .d-grid .d-grid-table .d-table th {
+    /* font-family: GoogleSans Bold; */
+    /* font-size: 1px !important; */
+    position: sticky;
+    top: 0;
+    background-color: #fafafa;
+}
+
+.d-group-number-page .btn-page-index {
+    background-color: unset;
+    border: none;
+    outline: none;
+}
+
+.d-group-number-page .btn-page-selected {
+    font-weight: 700;
+    border: 1px solid #e0e0e0;
+}
+
+.d-function {
+    height: 36px;
+    width: fit-content;
+    display: flex;
+    align-items: center;
+}
+
+.d-function .d-text {
+    color: #0075C0;
+    margin-right: 10px;
+}
+
+.icon_refresh {
+    margin-right: 12px;
+}
